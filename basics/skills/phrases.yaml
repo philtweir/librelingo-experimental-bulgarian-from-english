@@ -1,0 +1,53 @@
+Skill:
+  Id: 279cf9a9-175e-41d9-aaf7-20f8a54f8c08
+  Name: Basic Phrases
+  Thumbnails:
+    - people1
+    - woman1
+    - man1
+New words:
+  - Word: лева
+    Translation: leva
+    Images:
+      - break1
+
+  - Word: лев
+    Translation: lev
+    Images:
+      - said1
+
+Phrases:
+  - Phrase: Добър ден
+    Translation: Good day
+  - Phrase: Благодаря много
+    Translation: "Thanks {a lot}"
+  - Phrase: "{Няма защо}"
+    Translation: "{You are welcome}"
+  - Phrase: Извинете
+    Translation: "{Excuse me}"
+  - Phrase: Довиждане
+    Translation: "Goodbye"
+  - Phrase: "{Приятен ден}"
+    Translation: "{(Have a) pleasant day}"
+
+Mini-dictionary:
+  Bulgarian:
+    - Добър: good
+    - ден: day
+    - Благодаря: thanks
+    - Извинете: excuse me
+    - Довиждане: goodbye
+    - Приятен ден: "{(Have a) pleasant day}"
+    - Няма защо: you are welcome
+    - много: a lot
+
+  English:
+    - good: Добър
+    - day: ден
+    - thanks: Благодаря
+    - excuse me: Извинете
+    - goodbye: Довиждане
+    - pleasant: Приятен
+    - you are welcome: Няма защо
+    - a lot: много
+    - "(Have a) pleasant day": "{Приятен ден}"
